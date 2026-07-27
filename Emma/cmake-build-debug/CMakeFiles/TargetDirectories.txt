@@ -1,0 +1,3 @@
+/Users/gongzhehao/Emma/cmake-build-debug/CMakeFiles/Emma.dir
+/Users/gongzhehao/Emma/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gongzhehao/Emma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
